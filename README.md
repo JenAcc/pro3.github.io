@@ -1,1 +1,1 @@
-# https://valami.github.io/index.html
+# https://valami.github.io
